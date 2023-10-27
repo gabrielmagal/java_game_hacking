@@ -3,6 +3,7 @@
 # Java-GameHacking
 
 -Esta ferramenta foi criada apenas para estudos, utilizando o framework Quarkus que utiliza como Core o Java.
+
 -Como dito, é apenas um projeto de estudos para alterar ou apenas ler a memória de algum processo. Como o
 projeto é bem simples, não estou utilizando nem a alteração da proteção da região, apenas conseguimos alterar
 regiões que estão livres para edição (Ao menos nesse primeiro momento).
