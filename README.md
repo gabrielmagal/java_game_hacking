@@ -11,11 +11,15 @@ regiões que estão livres para edição (Ao menos nesse primeiro momento).
 # Compilar ou Rodar a aplicação
 
 -Para compilar a aplicação em Quarkus utiliza-se o comando: ./mvnw clean install
+
 -Para rodar a aplicação direto da sua máquina, utilize: ./mvnw clean quarkus:dev
 
 # Ferramentas utilizadas
+
 -Intellij
+
 -CheatEngine
+
 -TestEnvironment (Utilizei um executavel qualquer apenas para demonstração)
 
 ### Uso da ferramenta:
