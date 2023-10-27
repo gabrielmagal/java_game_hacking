@@ -1,3 +1,5 @@
+![7](https://i.imgur.com/9Z0NSWw.jpg)
+
 # Java-GameHacking
 
 -Esta ferramenta foi criada apenas para estudos, utilizando o framework Quarkus que utiliza como Core o Java.
@@ -9,6 +11,11 @@ regiões que estão livres para edição (Ao menos nesse primeiro momento).
 
 -Para compilar a aplicação em Quarkus utiliza-se o comando: ./mvnw clean install
 -Para rodar a aplicação direto da sua máquina, utilize: ./mvnw clean quarkus:dev
+
+# Ferramentas utilizadas
+-Intellij
+-CheatEngine
+-TestEnvironment (Utilizei um executavel qualquer apenas para demonstração)
 
 ### Uso da ferramenta:
 ![1](https://i.imgur.com/tCd2Jxa.png)
